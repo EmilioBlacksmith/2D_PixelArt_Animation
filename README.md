@@ -1,1 +1,1 @@
-# 2D_PixelArt_Animation
+# 2D Pixel Art Animation Tutorial (Full Project)
